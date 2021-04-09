@@ -1,8 +1,6 @@
-# gits-class-da
+# data-analytics-python
 
-![](https://gits.id/wp-content/uploads/2020/09/Logo-Main.png)
-
-Gits Sharing session Internal Data Analytic
+Sharing session About Data Analytics
 
 # Tools Requirements
 
